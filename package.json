@@ -1,0 +1,23 @@
+{
+  "name": "trcontrol",
+  "version": "1.0.0",
+  "description": "traffic light control",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "kkambbak",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.3.4",
+    "morgan": "^1.10.0",
+    "multiparty": "^4.2.3",
+    "nunjucks": "^3.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

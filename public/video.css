@@ -1,0 +1,85 @@
+
+
+.idname{
+    margin-left:35px;
+    margin-top: 15px;
+}
+
+.red_light {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 5px;
+    display: inline-block;
+    background-color: red;
+}
+
+.yellow_light {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 5px;
+    display: inline-block;
+    background-color: yellow;
+}
+
+.green_light {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 5px;
+    display: inline-block;
+    background-color: lightgreen;
+}
+
+.bang_light {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 5px;
+    display: inline-block;
+    background-color: rgb(108, 62, 235);
+}
+
+.light {
+    width: 50px;
+    height: 50px;
+    background-color: #777777;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+#i1 {
+    width: 300px;
+    height: 120px;
+    margin-left: 200px;
+    border: black 10px solid;
+}
+
+#i2 {
+    width: 300px;
+    height: 120px;
+    margin-top: 100px;
+    margin-left: 200px;
+    border: black 10px solid;
+}
+
+.traffics{
+    margin-top:20px;
+    margin-left:20px;
+}
+
+.videotraffic{
+    display: flex;
+    margin-left: 50px;
+}
+#timestamp{
+    margin-top:20px;
+    margin-left:30px;
+}

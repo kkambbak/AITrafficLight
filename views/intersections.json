@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "626814e28b8c285b481b60b1"
+  },
+  "CRSRD_ID": "1865863300",
+  "CRSRD_NM": "충대서문네거리",
+  "CRSRD_TYPE_CD": "4",
+  "LNG_CRDNT": "127.340309",
+  "LAT_CRDNT": "36.370016",
+  "DATE": "2022-01-01 00:30:23",
+  "NUM_CARS": 15,
+  "NUM_PEOPLE": 5,
+  "NUM_DANGER": 0,
+  "NOW_SIG": 100,
+  "NEXT_SIG": 100,
+  "TIME_DANGER": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650120072175"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626815f58b8c285b481b60b2"
+  },
+  "CRSRD_ID": "1860028800",
+  "CRSRD_NM": "충대오거리",
+  "CRSRD_TYPE_CD": "5",
+  "LNG_CRDNT": "127.344665",
+  "LAT_CRDNT": "36.362254",
+  "DATE": "2022-01-01 00:30:23",
+  "NUM_CARS": 20,
+  "NUM_PEOPLE": 13,
+  "NUM_DANGER": 0,
+  "NOW_SIG": 100,
+  "NEXT_SIG": 110,
+  "TIME_DANGER": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650120072175"
+    }
+  }
+}]
